@@ -1,5 +1,5 @@
 # PackMen-exercise
-<img src= "packmen.jpg" width="300" />
+<img src= "pacmen.jpg" width="300" />
 
 ## Description
 
