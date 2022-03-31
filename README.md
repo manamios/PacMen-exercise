@@ -10,6 +10,7 @@ Clone all files in this repo to your local drive. Open the index.html file in a 
 
 ## Roadmap of future improvements
 -add background image
+
 -add more styles to the buttons
 
 ## Licence
