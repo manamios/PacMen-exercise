@@ -2,8 +2,8 @@
 <img src= "pacmen.jpg" width="300" />
 
 ## Description
-Each clicking "Add PacMan" button makes PacMan on the page, and "Start Game" button starts to muve the PacMen to different velocity and direction. PacMen bounce of on each walls.
-For this project, forcus on DOM manipulation, array method. 
+Clicking "Add PacMan" button makes PacMan images appear on the page, and the "Start Game" button starts to move the PacMen at different velocities and directions. The PacMen will bounce off of the edge of the screen and change directions.
+For this project, I focused on DOM manipulation, and array methods. 
 
 ## How to run
 Clone all files in this repo to your local drive. Open the index.html file in a browser. First, click the "Add PacMan" button. Each click makes a new, PacMan to the page. Then, click the "Start Game" button and the PacMen will begin to move at different velocities. You can add more PacMen after starting the game.
